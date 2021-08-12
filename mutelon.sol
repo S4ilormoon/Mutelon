@@ -414,7 +414,7 @@ contract Ownable is Context {
 
 
 
-contract FEG is Context, IERC20, Ownable {
+contract MUTE is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
